@@ -1,0 +1,40 @@
+body {
+  text-align: center;
+  background-color: yellowgreen;
+}
+#resultRow, #firstRow, #secondRow, #thirdRow, #fourthRow,#fifthRow{
+    padding-bottom: 1px;
+}
+#one,
+#two,
+#three,
+#four,
+#five,
+#six,
+#seven,
+#eight,
+#nine,
+#zero,
+#decimal,
+#multiply,
+#minus,
+#divide {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  width: 50px;
+  height: 50px;
+}
+
+#add,
+#clear,
+#equals {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  width: 104px;
+  height: 50px;
+}
+#result {
+  width: 204px;
+}
