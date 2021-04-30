@@ -2,8 +2,13 @@ body {
   text-align: center;
   background-color: yellowgreen;
 }
-#resultRow, #firstRow, #secondRow, #thirdRow, #fourthRow,#fifthRow{
-    padding-bottom: 1px;
+#resultRow,
+#firstRow,
+#secondRow,
+#thirdRow,
+#fourthRow,
+#fifthRow {
+  padding-bottom: 1px;
 }
 #one,
 #two,
@@ -24,6 +29,14 @@ body {
   list-style: none;
   width: 50px;
   height: 50px;
+  font-family: Brush Script MT;
+  background: linear-gradient(
+    to bottom,
+    #ffb76b 0%,
+    #ffa73d 50%,
+    #ff7c00 51%,
+    #ff7f04 100%
+  );
 }
 
 #add,

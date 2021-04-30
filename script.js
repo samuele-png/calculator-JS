@@ -1,4 +1,4 @@
-import styles from "./style.css";
+
 function clearScreen() {
     document.getElementById("result").value = "";
   }
